@@ -1,0 +1,269 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="UK",BT Sport 1 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="UK",BT Sport 2 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="FreeSports" tvg-country="UK" tvg-language="English" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="UK",FreeSports (1080p)
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+#EXTINF:-1 tvg-id="beINSports1English.qa" tvg-name="beIN Sports 1 English" tvg-country="TH" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="Bein Sports",beIN Sports 1 Premium [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="beINSports2English.qa" tvg-name="beIN Sports 2 English" tvg-country="TH" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-2-qa.png" group-title="Bein Sports",beIN Sports 2 Premium [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="BeINSportsXtra.qa" tvg-name="BeIN Sports Xtra" tvg-country="QA" tvg-language="English" tvg-logo="" group-title="Bein Sports",BeIN Sports Xtra (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&profilesFromStream=true&serverSideAds=true&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
+#EXTINF:-1 tvg-id="TruePremierFootballHD1.th" tvg-name="True Premier Football HD 1" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Thailand",True Premier Football HD 1 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootballHD2.th" tvg-name="True Premier Football HD 2" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Thailand",True Premier Football HD 2 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootballHD3.th" tvg-name="True Premier Football HD 3" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Thailand",True Premier Football HD 3 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootballHD4.th" tvg-name="True Premier Football HD 4" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl4.png" group-title="Thailand",True Premier Football HD 4 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootballHD5.th" tvg-name="True Premier Football HD 5" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="Thailand",True Premier Football HD 5 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="True Sport 5" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="Thailand",True Sport 5 (480p Scaled) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="True Sport 7" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="Thailand",True Sport 7 (480p Scaled) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSportHD1.th" tvg-name="True Sport HD 1" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" group-title="Thailand",True Sport HD 1 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSportHD2.th" tvg-name="True Sport HD 2" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="Thailand",True Sport HD 2 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSportHD3.th" tvg-name="True Sport HD 3" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" group-title="Thailand",True Sport HD 3 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSportHD4.th" tvg-name="True Sport HD 4" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="Thailand",True Sport HD 4 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="FOXSports2.us" tvg-name="FOX Sports 2 Asia Thai" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="Thailand",FOX Sports 2 Asia Thai (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="FOXSports3.us" tvg-name="FOX Sports 3 Asia Thai" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports3.png" group-title="Thailand",FOX Sports 3 Asia Thai (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="FOXSports.us" tvg-name="FOX Sports Asia Thai" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports1.png" group-title="Thailand",FOX Sports Asia Thai (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="GolfChannelThailand.th" tvg-name="Golf Channel Thailand" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-golf.png" group-title="Thailand",Golf Channel Thailand (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueTennisHD.th" tvg-name="True Tennis HD" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tennis.png" group-title="Thailand",True Tennis HD (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-nba.png" group-title="Thailand",NBA TV (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",Sport TV 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",Sport TV 2 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",Sport TV 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",Sport TV 4 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",Sport TV 5 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",Sport TV+
+http://185.236.229.21:9981/play/a03c
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="US",ESPN (480p)
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="US",ESPN (720p)
+https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png" group-title="US",ESPN 2 (480p)
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png" group-title="US",ESPN 2 (720p)
+http://stream2.grandma.fit/espn2.m3u8
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",|UK|| BT SPORT 1 FHD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51457
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: BT SPORT 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19277
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",|UK|| BT SPORT 2 FHD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51456
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: BT SPORT 2
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19278
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: BT SPORT 3
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19279
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: BT SPORT ESPN
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19280
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: Eir Sport 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19281
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: Eir Sport 2
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19282
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: Eurosport 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19283
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: Eurosport 2
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19284
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: FreeSports
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19285
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: Ginx eSports TV
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19286
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: LFC TV
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19287
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: MUTV
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19288
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: Racing TV
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19289
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: SKY SPORTS ARENA
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19290
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: SKY SPORTS BOX OFFICE
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19291
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: SKY SPORTS CRICKET
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19292
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",|UK|| SKY SPORTS CRICKET FHD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51455
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: SKY SPORTS F1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19293
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: SKY SPORTS FOOTBALL
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19294
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: SKY SPORTS GOLF
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19295
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: SKY SPORTS GOLF (2)
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/41972
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: SKY SPORTS MAIN EVENT
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19296
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: SKY SPORTS MAIN EVENT (2)
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/41974
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: SKY SPORTS MIX
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19297
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: SKY SPORTS NFL
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19298
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: SKY SPORTS RACING
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19299
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: UFC Fight Pass
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19300
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: At The Races
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19274
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: beIN SPORTS
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19275
+#EXTINF:-1 group-title="UK တစ်ခါတစ်လေ ဖွင့်မရ",UK: BOX NATION
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19276
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",Bein sport 1 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43374
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",Bein sport 2 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43375
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",Bein sport 3 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43376
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",Bein sport 4 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43377
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",Bein sport 5 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43378
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",Bein sport 6 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43379
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",Bein sport 7 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43380
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",Bein sport 1 Premium HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43381
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",Bein sport 2 Premium HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43382
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",Bein sport 3 Premium HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43383
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",beIN SPORTS 1 Premium HEVC
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43384
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",beIN SPORTS 2 Premium HEVC
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43385
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",beIN SPORTS 3 Premium HEVC
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43386
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",BEIN SPORTS 1 HEVC
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43387
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",BEIN SPORTS 2 HEVC
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43388
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",BEIN SPORTS 3 HEVC
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43389
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",BEIN SPORTS 4 HEVC
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43390
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",BEIN SPORTS 5 HEVC
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43391
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",BEIN SPORTS 6 HEVC
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43392
+#EXTINF:-1 group-title="Bein Sport တစ်ခါတစ်လေဖွင့်မရ",BEIN SPORTS 7 HEVC
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43393
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Sport TV တစ်ခါတစ်လေဖွင့်မရ",SPORT TV +
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42964?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Sport TV တစ်ခါတစ်လေဖွင့်မရ",SPORT TV 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42965?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Sport TV တစ်ခါတစ်လေဖွင့်မရ",SPORT TV 2
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42967?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Sport TV တစ်ခါတစ်လေဖွင့်မရ",SPORT TV 2(2)
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42969?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Sport TV တစ်ခါတစ်လေဖွင့်မရ",Sport TV 3
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42970?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Sport TV တစ်ခါတစ်လေဖွင့်မရ",Sport TV 4
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42971?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Sport TV တစ်ခါတစ်လေဖွင့်မရ",Sport TV 5
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42973?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Eleven တစ်ခါတစ်လေဖွင့်မရ",Eleven 1 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42903?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Eleven တစ်ခါတစ်လေဖွင့်မရ",Eleven 2 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42904?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Eleven တစ်ခါတစ်လေဖွင့်မရ",Eleven 3 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42905?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Eleven တစ်ခါတစ်လေဖွင့်မရ",Eleven 4
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42906?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Eleven တစ်ခါတစ်လေဖွင့်မရ",Eleven 5
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42907?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal Eleven တစ်ခါတစ်လေဖွင့်မရ",Eleven 6
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/42908?checkedby:iptvcat.com
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND: STAR SPORTS SELECT 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43010
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND: STAR SPORTS SELECT 2
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43011
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND: STAR SPORTS 1 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43006
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND: STAR SPORTS 1 SD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43007
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND: STAR SPORTS 2 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43008
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND: STAR SPORTS 3 SD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43009
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND: SONY SIX 4k
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43012
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND: TEN 1 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43013
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND: TEN 2 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43014
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",TEN SPORTS HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/45985
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND | Star Sports 1 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43042
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND | Star Sports 1 Hindi
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43043
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND | Star Sports 2 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43044
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND: TEN 3 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43015
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IND: DD SPORTS
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43016
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IN: SONY SIX HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/49513
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IN- Sony Ten 3
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/49523
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",SONY TEN 1 UHD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/45988
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IN: Sony Six
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51276
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IN: STAR SPORTS 1 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51445
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IN: Star Sports 2 Select HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51446
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IN: STAR SPORTS FIRST
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51447
+#EXTINF:-1 group-title="India တစ်ခါတစ်လေဖွင့်မရ",IN: TEN 1 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51449
